@@ -1,47 +1,49 @@
-# Hi! I'm Ana Luísa 👋
+# Hey, I'm Ana Luísa! 👋
 
-I'm an undergraduate student in Science and Technology at **UFABC (Federal University of ABC), Brazil**, interested in Data Science, Machine Learning, and Artificial Intelligence.
+Welcome to my little corner of GitHub!
 
-I enjoy exploring how data and computational methods can be used to understand problems, identify patterns, and build practical solutions. My interests also extend to scientific research, particularly Bioinformatics and computational approaches to biological data.
+I'm an undergraduate student in Science and Technology at **UFABC (Federal University of ABC), Brazil**.
 
-### 🔬 What I'm working on
+I'm someone who is naturally curious and loves learning about pretty much everything. I originally dreamed of becoming a doctor, and although my path took a different direction, my fascination with biology, the human body, and science never really went away. I eventually found another way to explore these interests: research, programming, and data.
 
-- **Data Science & Machine Learning:** Data analysis, predictive modeling, and time series forecasting.
-- **Bioinformatics:** miRNA co-expression networks, gene expression data, and network stability analysis using R and WGCNA.
-- **Programming & Education:** Teaching Python, data analysis libraries, and introductory Machine Learning concepts.
+I'm particularly interested in **Data Science, Machine Learning, Artificial Intelligence, and Bioinformatics**. I love the idea of using computational tools to investigate scientific questions, find patterns, and understand things that aren't always visible at first glance.
 
-### 🛠️ Technologies & Tools
+### 🔬 What I'm into
 
-**Languages**
-- Python
-- R
+- 🧬 **Biology & Research:** I have a special interest in biological sciences and love exploring how computational methods can contribute to scientific discoveries.
+- 📊 **Data Science & Machine Learning:** Exploring data, building predictive models, and turning questions into experiments.
+- 🤖 **Artificial Intelligence:** Learning about AI, its applications, possibilities, and limitations.
+- 🐍 **Programming:** Mostly Python and R, always learning something new.
 
-**Data Science & Machine Learning**
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- XGBoost
-- Random Forest
-- LightGBM
+### 🛠️ Tools I work with
 
-**Bioinformatics**
-- WGCNA
-- GEOquery
+- **Languages:** Python, R, SQL
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, XGBoost, Random Forest, LightGBM
+- **Bioinformatics:** WGCNA, GEOquery
+- **Other tools:** Git, FastAPI, Node.js
 
-**Other Tools**
-- Git
-- FastAPI
-- Node.js
+### 🌻 A little about me outside the terminal
 
-### 🌱 A little more about me
+I believe there's a lot more to life than code, so here's a little glimpse of what I enjoy:
 
-- 🎓 Studying Science and Technology at UFABC.
-- 🔎 Interested in the intersection of technology, science, and data.
-- 👩‍🏫 I enjoy teaching and sharing knowledge about programming and AI.
-- 📚 Always learning, experimenting, and working on new ideas.
+- 📚 **Reading:** Especially fantasy, mystery, and stories that make me think.
+- 🎮 **Gaming:** Always happy to discover new games, especially local co-op adventures.
+- 🧶 **Crochet:** One of my favorite creative hobbies.
+- ✈️ **Traveling:** I love discovering new places, cultures, and experiences.
+- 🏋️ **Weightlifting:** I enjoy strength training and challenging myself at the gym.
+- 🏃 **Running:** Another way I like to stay active and challenge myself.
 
-### 📫 Let's connect!
+I also enjoy teaching and sharing what I learn. There's something really rewarding about helping someone understand a concept that once seemed complicated.
 
-Feel free to explore my repositories and follow my journey in technology and research!
+### 💭 A little philosophy
+
+I'm still figuring things out, exploring different fields, and discovering what I'm capable of. I don't think curiosity needs to fit into just one area of knowledge.
+
+Whether it's biology, technology, art, or something completely different, I love learning how things work and finding new questions to ask.
+
+Thanks for stopping by! Feel free to explore my repositories. 💜
+
+---
+
+📫 **Let's connect!**
