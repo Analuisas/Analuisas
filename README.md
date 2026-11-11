@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi! I'm Ana Luísa 👋
 
-<!--
-**Analuisas/Analuisas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student in Science and Technology at **UFABC (Federal University of ABC), Brazil**, interested in Data Science, Machine Learning, and Artificial Intelligence.
 
-Here are some ideas to get you started:
+I enjoy exploring how data and computational methods can be used to understand problems, identify patterns, and build practical solutions. My interests also extend to scientific research, particularly Bioinformatics and computational approaches to biological data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 What I'm working on
+
+- **Data Science & Machine Learning:** Data analysis, predictive modeling, and time series forecasting.
+- **Bioinformatics:** miRNA co-expression networks, gene expression data, and network stability analysis using R and WGCNA.
+- **Programming & Education:** Teaching Python, data analysis libraries, and introductory Machine Learning concepts.
+
+### 🛠️ Technologies & Tools
+
+**Languages**
+- Python
+- R
+
+**Data Science & Machine Learning**
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- XGBoost
+- Random Forest
+- LightGBM
+
+**Bioinformatics**
+- WGCNA
+- GEOquery
+
+**Other Tools**
+- Git
+- FastAPI
+- Node.js
+
+### 🌱 A little more about me
+
+- 🎓 Studying Science and Technology at UFABC.
+- 🔎 Interested in the intersection of technology, science, and data.
+- 👩‍🏫 I enjoy teaching and sharing knowledge about programming and AI.
+- 📚 Always learning, experimenting, and working on new ideas.
+
+### 📫 Let's connect!
+
+Feel free to explore my repositories and follow my journey in technology and research!
